@@ -3,12 +3,12 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
 @IonicPage()
 @Component({
-  selector: 'page-home',
-  templateUrl: 'home.html',
+  selector: 'page-why-isagenix',
+  templateUrl: 'why-isagenix.html',
 })
-export class HomePage {
+export class WhyIsagenixPage {
 
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
-  
+
 }

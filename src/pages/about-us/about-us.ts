@@ -3,12 +3,12 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
 @IonicPage()
 @Component({
-  selector: 'page-home',
-  templateUrl: 'home.html',
+  selector: 'page-about-us',
+  templateUrl: 'about-us.html',
 })
-export class HomePage {
+export class AboutUsPage {
 
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
-  
+
 }

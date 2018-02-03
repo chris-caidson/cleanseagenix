@@ -3,12 +3,12 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
 @IonicPage()
 @Component({
-  selector: 'page-home',
-  templateUrl: 'home.html',
+  selector: 'page-value-pak',
+  templateUrl: 'value-pak.html',
 })
-export class HomePage {
+export class ValuePakPage {
 
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
-  
+
 }

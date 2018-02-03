@@ -3,12 +3,12 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
 @IonicPage()
 @Component({
-  selector: 'page-home',
-  templateUrl: 'home.html',
+  selector: 'page-energy-supplements',
+  templateUrl: 'energy-supplements.html',
 })
-export class HomePage {
+export class EnergySupplementsPage {
 
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
-  
+
 }
